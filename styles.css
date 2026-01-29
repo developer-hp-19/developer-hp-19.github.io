@@ -1,0 +1,25 @@
+  .bg-1 {
+    background-color: #1abc9c; /* Green */
+    color: #ffffff;
+  }
+
+
+  .bg-2 {
+    background-color: #ffffff; /* White */
+    color: #555555;
+  }
+
+
+  .bg-3 {
+    background-color: #EBEBEB; /* Gray white */
+    color: #555555;
+  }
+
+
+
+  .container-fluid {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+
